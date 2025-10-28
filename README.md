@@ -17,4 +17,5 @@
 - Normal `<leader>?` – pick directories, then live ripgrep.
 - Normal `<leader>g` – fzf-lua Git diff view.
 - Normal `<leader>vh` – fzf-lua help tags.
+- Normal '<ctrl>s' - save & format.
 - Oil buffer `q` / `<Esc>` – close the floating Oil window.
